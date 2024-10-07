@@ -1,6 +1,8 @@
 
 # Loan Default Prediction System
 
+![Loan Default Prediction Thumbnail](image_thumbnail.jpg)
+
 ## Overview
 
 This project is designed to predict loan defaults using machine learning techniques, specifically XGBoost. The project utilizes a dataset of loan applications and analyzes various borrower and loan attributes to determine the likelihood of defaulting on a loan.
@@ -16,6 +18,9 @@ The dataset used in this project is `Loan_default.csv` provided by Coursera. It 
 - Borrower demographics (Age, Income, Employment, etc.)
 - Loan details (Loan Amount, Interest Rate, Loan Term, etc.)
 - Other relevant variables (Education, Loan Purpose, Marital Status, etc.)
+
+You can download it here:
+https://www.kaggle.com/datasets/nikhil1e9/loan-default
 
 
 ## Prerequisites
