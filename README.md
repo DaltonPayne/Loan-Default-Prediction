@@ -72,16 +72,15 @@ Enter age: 35
 Enter income: 50000
 Enter loan amount: 15000
 Enter interest rate: 5.5
-Enter education level (High School, Bachelor's, Master's): Bachelor's
+Enter education level (High School, Bachelor's, Master's): Bachelor's 
 Enter loan term (in months): 60
 Enter months employed: 120
 Enter employment type (Full-time, Part-time, Unemployed): Full-time
 Enter marital status (Single, Married, Divorced): Married
-Has a cosigner? (Yes/No): No
+Has a cosigner? (Yes/No): no
 Has dependents? (Yes/No): Yes
 Enter loan purpose (Auto, Business, Other): Auto
-
-The predicted probability of defaulting on the loan is: 13.45%
+The predicted probability of defaulting on the loan is: 2.67%
 ```
 
 ## Model Evaluation
